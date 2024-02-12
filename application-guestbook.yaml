@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoUrl: https://github.com/shivaji-wsa/argo-project
+    repoURL: https://github.com/shivaji-wsa/argo-project
     targetRevision: HEAD
     path: guestbook
   destination:
