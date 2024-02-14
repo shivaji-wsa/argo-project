@@ -8,7 +8,7 @@ spec:
   source:
     chart: helm-guestbook
     repoURL: https://github.com/shivaji-wsa/argo-project
-    #targetRevision: 1.16.1
+    targetRevision: 0.1.1
     helm:
       #releaseName: sealed-secrets
   destination:
