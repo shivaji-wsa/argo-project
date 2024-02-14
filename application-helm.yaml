@@ -10,7 +10,7 @@ spec:
     repoURL: https://github.com/shivaji-wsa/argo-project
     targetRevision: 0.1.1
     helm:
-      #releaseName: sealed-secrets
+      releaseName: sealed-secrets
   destination:
     server: "https://kubernetes.default.svc"
     namespace: default
